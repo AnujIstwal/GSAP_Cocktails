@@ -1,16 +1,43 @@
-# React + Vite
+# Mojito Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and visually engaging landing page for the Mojito product, built with React, Tailwind CSS, and GSAP for smooth animations and responsive design.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Built with React for component-based structure
+- Styled using Tailwind CSS for utility-first responsive design
+- GSAP powers smooth scroll and timeline animations
+- Responsive layout optimized for all device sizes
+- Fresh mint and lime inspired visual theme
 
-## React Compiler
+## Installation
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Clone the repository:
+git clone [https://github.com/AnujIstwal/GSAP_Cocktails.git](https://github.com/AnujIstwal/GSAP_Cocktails)
 
-## Expanding the ESLint configuration
+2. Navigate to the project folder:
+**cd GSAP_Cocktails**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3. Install dependencies:
+**npm install**
+
+4. Run the development server:
+**npm run dev**
+
+Open `http://localhost:5173` (or the port shown in terminal) to view the landing page.
+
+## Deployment
+
+The project is set up for easy deployment with Vercel or any static hosting provider supporting React apps.
+
+## Technologies Used
+
+- React
+- Vite (build tool)
+- Tailwind CSS
+- GSAP (GreenSock Animation Platform)
+- JavaScript (ES6+)
+
+---
+
+This project demonstrates modern frontend development practices including React component architecture, utility-first styling with Tailwind, and animation with GSAP, focusing on an attractive and interactive mojito product landing page.
