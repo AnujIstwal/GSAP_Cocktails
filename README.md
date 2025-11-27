@@ -16,15 +16,15 @@ A modern and visually engaging landing page for the Mojito product, built with R
 git clone [https://github.com/AnujIstwal/GSAP_Cocktails.git](https://github.com/AnujIstwal/GSAP_Cocktails)
 
 2. Navigate to the project folder:
-cd GSAP_Cocktails
+**cd GSAP_Cocktails**
 
 3. Install dependencies:
-npm install
+**npm install**
 
 4. Run the development server:
-npm run dev
+**npm run dev**
 
-Open `http://localhost:3000` (or the port shown in terminal) to view the landing page.
+Open `http://localhost:5173` (or the port shown in terminal) to view the landing page.
 
 ## Deployment
 
