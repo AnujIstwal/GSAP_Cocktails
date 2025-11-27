@@ -4,7 +4,8 @@
 
 @font-face {
     font-family: "Modern Negra";
-    src: url("/fonts/Modern Negra Demo.ttf") format("truetype");
+    src: url("/fonts/ModernNegraDemo.woff2") format("woff2"),
+        url("/fonts/ModernNegraDemo.woff") format("woff");
 }
 
 @theme {
